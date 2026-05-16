@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hermes Racing//Racing Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jeff Halsey Racing Calendar
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALDESC:Combined Texas SCCA Solo schedule with auto-generated 1-week maintenance and prep blocks.
+BEGIN:VEVENT
+UID:txscca-2026-e4@hermes-racing
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Autocross/Solo — Event #4 — Ejecto Seato Cones
+LOCATION:Burleson High School
+DESCRIPTION:Texas SCCA Solo Event #4. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e4-maint@hermes-racing
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260510
+SUMMARY:MODS / MAINTENANCE — Ejecto Seato Cones
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #4 — Ejecto Seato Cones. Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e4-prep@hermes-racing
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260517
+SUMMARY:PREP / PACK / SIM — Ejecto Seato Cones
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #4 — Ejecto Seato Cones. Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e5@hermes-racing
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Autocross/Solo — Event #5 — Palo Pinto
+LOCATION:Palo Pinto
+DESCRIPTION:Texas SCCA Solo Event #5. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e5-maint@hermes-racing
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260530
+SUMMARY:MODS / MAINTENANCE — Palo Pinto
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #5 — Palo Pinto. Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e5-prep@hermes-racing
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260606
+SUMMARY:PREP / PACK / SIM — Palo Pinto
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #5 — Palo Pinto. Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e6@hermes-racing
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course)
+LOCATION:Eagles Canyon Raceway
+DESCRIPTION:Texas SCCA Solo Event #6. Road course autocross. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e6-maint@hermes-racing
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260705
+SUMMARY:MODS / MAINTENANCE — Fastest Cones Alive (Road Course)
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course). Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e6-prep@hermes-racing
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260712
+SUMMARY:PREP / PACK / SIM — Fastest Cones Alive (Road Course)
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course). Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e7@hermes-racing
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Autocross/Solo — Event #7 — Granny Shifting\, Double Coning
+LOCATION:Lone Star Park
+DESCRIPTION:Texas SCCA Solo Event #7. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e7-maint@hermes-racing
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260726
+SUMMARY:MODS / MAINTENANCE — Granny Shifting\, Double Coning
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #7 — Granny Shifting\, Double Coning. Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e7-prep@hermes-racing
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260802
+SUMMARY:PREP / PACK / SIM — Granny Shifting\, Double Coning
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #7 — Granny Shifting\, Double Coning. Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e8@hermes-racing
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Autocross/Solo — Event #8 — 1/4 Cone at a Time
+LOCATION:Lone Star Park
+DESCRIPTION:Texas SCCA Solo Event #8. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e8-maint@hermes-racing
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260927
+SUMMARY:MODS / MAINTENANCE — 1/4 Cone at a Time
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #8 — 1/4 Cone at a Time. Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e8-prep@hermes-racing
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261004
+SUMMARY:PREP / PACK / SIM — 1/4 Cone at a Time
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #8 — 1/4 Cone at a Time. Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e9@hermes-racing
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Autocross/Solo — Event #9 — Overnight Cones from Japan
+LOCATION:Lone Star Park
+DESCRIPTION:Texas SCCA Solo Event #9. Season finale. Championship points event.
+CATEGORIES:Racing,Autocross
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e9-maint@hermes-racing
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261115
+SUMMARY:MODS / MAINTENANCE — Overnight Cones from Japan
+DESCRIPTION:Week-long maintenance window. Focus: brake pads\, alignment\, coolant\, tires\, any BSP-legal mods. Target event: Autocross/Solo — Event #9 — Overnight Cones from Japan. Jeff works M–F 8–5\; kid activities weeknights. Mods happen this weekend.
+CATEGORIES:Maintenance,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:txscca-2026-e9-prep@hermes-racing
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261122
+SUMMARY:PREP / PACK / SIM — Overnight Cones from Japan
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #9 — Overnight Cones from Japan. Prep happens this weekend.
+CATEGORIES:Car Prep,Racing
+END:VEVENT
+END:VCALENDAR
