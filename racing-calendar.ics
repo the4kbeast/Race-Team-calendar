@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Jeff Halsey Racing Calendar
 X-WR-TIMEZONE:America/Chicago
-X-WR-CALDESC:Combined Texas SCCA Solo schedule with auto-generated 1-week maintenance and prep blocks.
+X-WR-CALDESC:Combined Texas SCCA Solo schedule with auto-generated 1-week maintenance and prep blocks plus holiday tire sale alerts.
 BEGIN:VEVENT
 UID:txscca-2026-e4@hermes-racing
 DTSTART;VALUE=DATE:20260517
@@ -155,5 +155,29 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:PREP / PACK / SIM — Overnight Cones from Japan
 DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #9 — Overnight Cones from Japan. Prep happens this weekend.
 CATEGORIES:Car Prep,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-2026-memorial@hermes-racing
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Tire Sale Alert — Memorial Day Weekend
+DESCRIPTION:Memorial Day weekend historically brings tire discounts. Check Tire Rack\, Discount Tire\, and other retailers for 200+ treadwear DOT tires suitable for BSP.
+CATEGORIES:Shopping,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-2026-july4@hermes-racing
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Tire Sale Alert — Independence Day
+DESCRIPTION:July 4th weekend often has tire sales. Monitor Tire Rack\, Discount Tire\, and other major retailers for 200+ treadwear DOT tires suitable for BSP.
+CATEGORIES:Shopping,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-2026-labor@hermes-racing
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Tire Sale Alert — Labor Day Weekend
+DESCRIPTION:Labor Day weekend historically brings tire discounts. Check Tire Rack\, Discount Tire\, and other retailers for 200+ treadwear DOT tires suitable for BSP.
+CATEGORIES:Shopping,Racing
 END:VEVENT
 END:VCALENDAR
