@@ -189,6 +189,14 @@ DESCRIPTION:Black Friday and Cyber Monday often bring significant tire discounts
 CATEGORIES:Shopping,Racing
 END:VEVENT
 BEGIN:VEVENT
+UID:sale-2027-presidents@hermes-racing
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270216
+SUMMARY:Tire Sale Watch — Presidents' Day Weekend
+DESCRIPTION:Presidents' Day weekend often brings tire discounts. Watch for deals on Bridgestone RE71RZ 275/35R18 (200+ treadwear DOT\, BSP-legal). Check Tire Rack\, Discount Tire\, and other major retailers daily this week. Good early-season stock-up opportunity.
+CATEGORIES:Shopping,Racing
+END:VEVENT
+BEGIN:VEVENT
 UID:annualtech-2027-locations@hermes-racing
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270201
