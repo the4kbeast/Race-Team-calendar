@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Jeff Halsey Racing Calendar
 X-WR-TIMEZONE:America/Chicago
-X-WR-CALDESC:Combined Texas SCCA Solo schedule with auto-generated 1-week maintenance and prep blocks plus holiday tire sale alerts.
+X-WR-CALDESC:Combined Texas SCCA Solo schedule with auto-generated 1-week maintenance and prep blocks, holiday tire sale alerts, and annual tech inspection planning.
 BEGIN:VEVENT
 UID:txscca-2026-e4@hermes-racing
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 SUMMARY:Autocross/Solo — Event #4 — Ejecto Seato Cones
 LOCATION:Burleson High School
-DESCRIPTION:Texas SCCA Solo Event #4. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #4. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -28,7 +28,7 @@ UID:txscca-2026-e4-prep@hermes-racing
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260517
 SUMMARY:PREP / PACK / SIM — Ejecto Seato Cones
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #4 — Ejecto Seato Cones. Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #4 — Ejecto Seato Cones. Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -37,7 +37,7 @@ DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Autocross/Solo — Event #5 — Palo Pinto
 LOCATION:Palo Pinto
-DESCRIPTION:Texas SCCA Solo Event #5. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #5. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ UID:txscca-2026-e5-prep@hermes-racing
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260606
 SUMMARY:PREP / PACK / SIM — Palo Pinto
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #5 — Palo Pinto. Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #5 — Palo Pinto. Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course)
 LOCATION:Eagles Canyon Raceway
-DESCRIPTION:Texas SCCA Solo Event #6. Road course autocross. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #6. Road course autocross. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ UID:txscca-2026-e6-prep@hermes-racing
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260712
 SUMMARY:PREP / PACK / SIM — Fastest Cones Alive (Road Course)
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course). Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #6 — Fastest Cones Alive (Road Course). Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:Autocross/Solo — Event #7 — Granny Shifting\, Double Coning
 LOCATION:Lone Star Park
-DESCRIPTION:Texas SCCA Solo Event #7. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #7. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ UID:txscca-2026-e7-prep@hermes-racing
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260802
 SUMMARY:PREP / PACK / SIM — Granny Shifting\, Double Coning
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #7 — Granny Shifting\, Double Coning. Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #7 — Granny Shifting\, Double Coning. Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +112,7 @@ DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Autocross/Solo — Event #8 — 1/4 Cone at a Time
 LOCATION:Lone Star Park
-DESCRIPTION:Texas SCCA Solo Event #8. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #8. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -128,7 +128,7 @@ UID:txscca-2026-e8-prep@hermes-racing
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20261004
 SUMMARY:PREP / PACK / SIM — 1/4 Cone at a Time
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #8 — 1/4 Cone at a Time. Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #8 — 1/4 Cone at a Time. Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +137,7 @@ DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Autocross/Solo — Event #9 — Overnight Cones from Japan
 LOCATION:Lone Star Park
-DESCRIPTION:Texas SCCA Solo Event #9. Season finale. Championship points event.
+DESCRIPTION:Texas SCCA Solo Event #9. Season finale. Championship points event. Jeff is Tech Inspection Co-Chair — arrive early for setup.
 CATEGORIES:Racing,Autocross
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ UID:txscca-2026-e9-prep@hermes-racing
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261122
 SUMMARY:PREP / PACK / SIM — Overnight Cones from Japan
-DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #9 — Overnight Cones from Japan. Prep happens this weekend.
+DESCRIPTION:Week-long prep window. Focus: fine-tuning setup\, virtual seat time on sim rig\, packing tools/gear\, tire pressures\, alignment confirmation. Target event: Autocross/Solo — Event #9 — Overnight Cones from Japan. Prep happens this weekend.\n\nTECH INSPECTION CO-CHAIR: Saturday night is EARLY BEDTIME. No late activities. Arrive at venue early Sunday morning for tech setup.
 CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
@@ -179,5 +179,21 @@ DTEND;VALUE=DATE:20260908
 SUMMARY:Tire Sale Alert — Labor Day Weekend
 DESCRIPTION:Labor Day weekend historically brings tire discounts. Check Tire Rack\, Discount Tire\, and other retailers for 200+ treadwear DOT tires suitable for BSP.
 CATEGORIES:Shopping,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:annualtech-2027-locations@hermes-racing
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:Annual Tech Planning — Locations & Venues
+DESCRIPTION:January = annual tech inspection planning season. As Tech Inspection Co-Chair\, Jeff needs to scout and confirm locations for annual tech sessions. Coordinate with Texas SCCA Solo chair on venue availability\, garage partnerships\, and inspection bay layout. Jeff works M–F 8–5\; planning calls and site visits happen on weekends.
+CATEGORIES:Tech Inspection,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:annualtech-2027-timing@hermes-racing
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270301
+SUMMARY:Annual Tech Planning — Timing & Logistics
+DESCRIPTION:February = annual tech inspection logistics lock-in. As Tech Inspection Co-Chair\, Jeff needs to finalize dates\, build the inspection schedule\, recruit volunteer inspectors\, and publish the annual tech calendar to the region. Confirm registration deadlines and MotorsportReg setup. Jeff works M–F 8–5\; coordination happens on weekends.
+CATEGORIES:Tech Inspection,Racing
 END:VEVENT
 END:VCALENDAR
