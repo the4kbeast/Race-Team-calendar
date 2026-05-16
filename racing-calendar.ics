@@ -158,26 +158,34 @@ CATEGORIES:Car Prep,Racing
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-2026-memorial@hermes-racing
-DTSTART;VALUE=DATE:20260525
+DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260526
-SUMMARY:Tire Sale Alert — Memorial Day Weekend
-DESCRIPTION:Memorial Day weekend historically brings tire discounts. Check Tire Rack\, Discount Tire\, and other retailers for 200+ treadwear DOT tires suitable for BSP.
+SUMMARY:Tire Sale Watch — Memorial Day Weekend
+DESCRIPTION:Memorial Day weekend historically brings tire discounts. Watch for deals on Bridgestone RE71RZ 275/35R18 (200+ treadwear DOT\, BSP-legal). Check Tire Rack\, Discount Tire\, and other major retailers daily this week.
 CATEGORIES:Shopping,Racing
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-2026-july4@hermes-racing
-DTSTART;VALUE=DATE:20260704
+DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260705
-SUMMARY:Tire Sale Alert — Independence Day
-DESCRIPTION:July 4th weekend often has tire sales. Monitor Tire Rack\, Discount Tire\, and other major retailers for 200+ treadwear DOT tires suitable for BSP.
+SUMMARY:Tire Sale Watch — Independence Day
+DESCRIPTION:July 4th weekend often has tire sales. Watch for deals on Bridgestone RE71RZ 275/35R18 (200+ treadwear DOT\, BSP-legal). Check Tire Rack\, Discount Tire\, and other major retailers daily this week.
 CATEGORIES:Shopping,Racing
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-2026-labor@hermes-racing
-DTSTART;VALUE=DATE:20260907
+DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260908
-SUMMARY:Tire Sale Alert — Labor Day Weekend
-DESCRIPTION:Labor Day weekend historically brings tire discounts. Check Tire Rack\, Discount Tire\, and other retailers for 200+ treadwear DOT tires suitable for BSP.
+SUMMARY:Tire Sale Watch — Labor Day Weekend
+DESCRIPTION:Labor Day weekend historically brings tire discounts. Watch for deals on Bridgestone RE71RZ 275/35R18 (200+ treadwear DOT\, BSP-legal). Check Tire Rack\, Discount Tire\, and other major retailers daily this week.
+CATEGORIES:Shopping,Racing
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-2026-blackfriday@hermes-racing
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261129
+SUMMARY:Tire Sale Watch — Black Friday / Cyber Monday
+DESCRIPTION:Black Friday and Cyber Monday often bring significant tire discounts. Watch for deals on Bridgestone RE71RZ 275/35R18 (200+ treadwear DOT\, BSP-legal). Check Tire Rack\, Discount Tire\, and other major retailers daily this week. Good time to stock up for the 2027 season.
 CATEGORIES:Shopping,Racing
 END:VEVENT
 BEGIN:VEVENT
